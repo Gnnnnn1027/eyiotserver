@@ -230,7 +230,7 @@ def sensor():
             "출력 스키마: {\"fan\":\"ON|OFF\",\"pump\":\"ON|OFF\",\"advice\":\"20자 이내\"}. "
             "advice는 한국어 20자 이내로 작성하세요."
         )
-
+    
         result = ""
         ai_error = None
 
